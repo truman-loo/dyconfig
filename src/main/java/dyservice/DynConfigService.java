@@ -11,7 +11,8 @@ import org.apache.zookeeper.WatchedEvent;
 import org.apache.zookeeper.Watcher;
 import org.apache.zookeeper.data.Stat;
 
-import com.cisco.dynconfig.zookeeper.ZookeeperWrapper;
+import dyservice.zookeeper.ZookeeperWrapper;
+
 
 /**
  * @author pelu2
