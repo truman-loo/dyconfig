@@ -5,7 +5,8 @@ package dyservice;
 
 import org.junit.Test;
 
-import com.cisco.dynconfig.zookeeper.ZookeeperWrapper;
+import dyservice.zookeeper.ZookeeperWrapper;
+
 
 /**
  * @author pelu2
